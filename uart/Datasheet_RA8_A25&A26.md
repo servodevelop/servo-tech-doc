@@ -71,4 +71,5 @@ RA8-A25/RA8-A26采用全对称双轴设计。搭 配CNC铝合金舵盘可实现�
 
 ![](https://fashionrobo.com/wp-content/uploads/2019/04/%E5%8F%8C%E8%BD%B4%E5%A4%96%E8%A7%82%E5%9B%BE.png)
 
-[返回](../)
+[返回](./README.md)
+
