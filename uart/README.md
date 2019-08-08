@@ -1,3 +1,5 @@
 [Back](../README.md)
 ### Servo Datasheet
- * [[Datasheet_RA8_A25&A26.md]]
+[RA8-A25/RA8-A26 Datasheet](uart/Datasheet_RA8_A25&A26.md)
+
+
