@@ -2,7 +2,7 @@
 
 
 
-![image-20190810000955739](/Users/James.Young/Documents/GitHub/servo-tech-doc/uart/images/image-20190810000955739.png)
+![image-20190810000955739](images/image-20190810000955739.png)
 
 
 
